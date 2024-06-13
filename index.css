@@ -6,9 +6,3 @@
     justify-content: center;
     text-align: center;
 }
-
-p, li {
-  font-size: 6px;
-  line-height: 2;
-  letter-spacing: 1px;
-}
