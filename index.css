@@ -11,5 +11,13 @@ p, li {
   font-size: 16px;
   line-height: 2;
   letter-spacing: 1px;
-  color: #FF9500;
+  text-shadow: 1px 2px 3px black;
+}
+
+li {
+  color: white;
+}
+
+html {
+  background-color: #c4cacf;
 }
