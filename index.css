@@ -21,3 +21,12 @@ li {
 html {
   background-color: #c4cacf;
 }
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #808080;
+  padding: 0 20px 20px 20px;
+  border: 2px solid white;
+  border-radius: 15px
+}
