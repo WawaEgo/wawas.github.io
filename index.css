@@ -1,7 +1,7 @@
 .products_container {
     margin-top: 200px;
     display: flex;
-    flex-direction: column;
+    flex-direction: Row;
     align-items: center;
     justify-content: center;
     text-align: center;
