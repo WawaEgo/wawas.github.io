@@ -17,6 +17,7 @@ p, li {
 
 li {
   color: #d7d7d7;
+  
 }
 
 html {
@@ -30,4 +31,9 @@ body {
   padding: 0 20px 20px 20px;
   border: 2px solid white;
   border-radius: 15px
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
 }
