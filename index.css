@@ -16,8 +16,7 @@ p, li {
 }
 
 li {
-  color: #d7d7d7;
-  
+  color: #dddddd;
 }
 
 html {
@@ -37,3 +36,27 @@ ul {
     text-align: center;
     list-style-position: inside;
 }
+
+ul {
+  width: 60px;
+  margin: 2 auto;
+  background-color: #dc8d8d;
+  padding: 0 1px 1px 1px;
+  border: 2px solid #ff0101;
+  border-radius: 20px;
+  font-family: 'arial';
+  font-size: 21px;
+  font-weight: 700;
+}
+
+p {
+  width: 60px;
+  margin: 2 auto;
+  background-color: #ffffff;
+  padding: 1 50px 2px 50px;
+  border: 2px solid #ff9f9f;
+  border-radius: 20px;
+  font-family: 'arial';
+  font-size: 21px;
+  font-weight: 700;
+} 
