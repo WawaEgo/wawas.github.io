@@ -5,6 +5,8 @@
     align-items: center;
     justify-content: center;
     text-align: center;
+    color: #de6d6d;
+    font-family: 'arial';
 }
 
 p, li {
@@ -16,11 +18,11 @@ p, li {
 }
 
 li {
-  color: #dddddd;
+  color: #f2f2f2;
 }
 
 html {
-  background-color: #c4cacf;
+  background-color: #c0c8cf;
 }
 
 body {
@@ -30,6 +32,7 @@ body {
   padding: 0 20px 20px 20px;
   border: 2px solid white;
   border-radius: 15px
+  
 }
 
 ul {
@@ -60,3 +63,7 @@ p {
   font-size: 21px;
   font-weight: 700;
 } 
+
+input {
+  background-color: #ffffff;
+}
